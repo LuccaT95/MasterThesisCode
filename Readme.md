@@ -1,6 +1,6 @@
 # Master's Thesis
 
-This repository contains the accompanying code to my master's thesis "A Balanced Grey Code for the Symmetric Group and on Symmetric Chain Decompositions of the Permutahedron" written at TU Berlin.
+This repository contains the accompanying code to my master's thesis "Symmetric Chain Decompositions of Combinatorial Posets" written at TU Berlin.
 
 ## Prerequisites for running the Python scripts
 
